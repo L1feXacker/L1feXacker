@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm a student of Kyiv national Taras Shevchenko university.
+Right now I work with Next js, used to with react native and remix.
 <!--
 **L1feXacker/L1feXacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
